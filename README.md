@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm programmer. (Currently, I'm not active. But will come back soon)
 
 <!--
 **k-nasa/k-nasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
