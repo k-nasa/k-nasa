@@ -1,3 +1,6 @@
 ### Hi there 👋 
 
-I'm programmer. (Currently, I'm not active. But will come back soon)
+I'm programmer.
+
+2020 was a holiday all year long...
+In 2021, OSS activities and convenient tool development will be carried out.
