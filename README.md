@@ -1,6 +1,21 @@
-### Hi there 👋 
+## Hi there 👋 
 
 I'm programmer.
+I am good at programming server-side applications.
+
+My favorite language is Rust. Most of my personal development uses Rust.
+
+The programming languages I use at job are Ruby and Golang.
+
+### Works
+
+-  [wai](https://github.com/k-nasa/wai) I created webassembly interpreter by Rust.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-nasa&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### Contribute
+
+coming soon...
+
+### Japanease profile
+
+https://www.wantedly.com/id/nasa
