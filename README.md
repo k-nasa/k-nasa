@@ -18,5 +18,5 @@ The programming languages I use at job are Ruby and Golang.
 
 ### Links
 
-profile page: https://www.wantedly.com/id/nasa
-blog: https://zenn.dev/nasa
+- profile page: https://www.wantedly.com/id/nasa
+- blog: https://zenn.dev/nasa
