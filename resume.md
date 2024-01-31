@@ -1,5 +1,7 @@
 # 職務経歴
 
+## links
+
 - [GitHub](https://github.com/k-nasa)
 - [Speakerdeck](https://speakerdeck.com/nasa_desu)
 - [Blog](https://zenn.dev/nasa)
@@ -11,7 +13,7 @@
 | 2021-04/現在 | [ウォンテッドリー株式会社](https://wantedlyinc.com) | Backend Engineer | Member |
 
 
-## 現職: ウォンテッドリー (推薦基盤) 2021-04 / 現在
+### 現職: ウォンテッドリー (推薦基盤) 2021-04 / 現在
 
 現職では ウォンテッドリーのvisit recommendation squadでBackendエンジニアとして推薦兼検索サーバーの運用を行っています。
 またチームの生産性向上のためのツール開発も行っています。
@@ -27,7 +29,7 @@
     - バックエンドサーバーの速度改善
     - 機械学習ジョブの速度改善
 
-## その他
+### その他
 
 [wantedly profile](https://www.wantedly.com/id/nasa)にブログ、OSS、職務経歴がまとまっています。
 
@@ -43,4 +45,3 @@
 - [denoland/deno](https://github.com/denoland/deno/commits?author=k-nasa)
 - [async-rs/async-std](https://github.com/async-rs/async-std/commits?author=k-nasa)
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer/commits?author=k-nasa)
-
